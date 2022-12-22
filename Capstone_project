@@ -1,0 +1,1 @@
+The project is a remote control car that uses sensors and gyroscopes that sends signals to servos, connected to a wishbone suspension, that will level the car out as it moves over surfaces, to keep it completely level over any surface.
